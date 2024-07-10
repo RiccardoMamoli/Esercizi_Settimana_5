@@ -7,7 +7,7 @@
 body {
     display: flex;
     justify-content: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Arial', sans-serif;
 }
 
 
@@ -56,7 +56,10 @@ body {
         gap: 10px;
     }
 
-    #honey, #traceHoney, #facilities, #contacts {
+    #honey,
+    #traceHoney,
+    #facilities,
+    #contacts {
         background-color: #FCDF7F;
         border-radius: 30px;
         color: #732103;
@@ -67,7 +70,7 @@ body {
         justify-content: center;
         align-items: center;
     }
-    
+
 
     h1 {
         color: #732103;
@@ -188,7 +191,10 @@ body {
         width: 30%;
     }
 
-    #honey, #traceHoney, #facilities, #contacts {
+    #honey,
+    #traceHoney,
+    #facilities,
+    #contacts {
         background-color: #FCDF7F;
         border-radius: 30px;
         color: #732103;
@@ -199,7 +205,7 @@ body {
         justify-content: center;
         align-items: center;
     }
-    
+
     #honey {
         order: -1;
     }
@@ -350,7 +356,10 @@ body {
         width: 100%;
     }
 
-    #honey, #traceHoney, #facilities, #contacts {
+    #honey,
+    #traceHoney,
+    #facilities,
+    #contacts {
         background-color: #FCDF7F;
         border-radius: 50px;
         color: #732103;
@@ -517,7 +526,10 @@ body {
         width: 100%;
     }
 
-    #honey, #traceHoney, #facilities, #contacts {
+    #honey,
+    #traceHoney,
+    #facilities,
+    #contacts {
         background-color: #FCDF7F;
         border-radius: 50px;
         color: #732103;
@@ -680,7 +692,10 @@ body {
         width: 100%;
     }
 
-    #honey, #traceHoney, #facilities, #contacts {
+    #honey,
+    #traceHoney,
+    #facilities,
+    #contacts {
         background-color: #FCDF7F;
         border-radius: 50px;
         color: #732103;
@@ -802,6 +817,3 @@ body {
 
 
 }
-
-
-
