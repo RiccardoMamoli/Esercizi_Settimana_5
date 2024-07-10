@@ -323,7 +323,7 @@ body {
         background-color: #FEF7E2;
         padding: 20px;
         margin-bottom: 20px;
-        height: 70%;
+        height: 100%;
         width: 25%;
         position: fixed;
     }
@@ -493,7 +493,7 @@ body {
         background-color: #FEF7E2;
         padding: 20px;
         margin-bottom: 20px;
-        height: 70%;
+        height: 100%;
         width: 20%;
         position: fixed;
     }
@@ -659,7 +659,7 @@ body {
         background-color: #FEF7E2;
         padding: 20px;
         margin-bottom: 20px;
-        height: 70%;
+        height: 100%;
         width: 15%;
         position: fixed;
     }
